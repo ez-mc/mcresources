@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/glass_cube_all",
+  "textures": {
+    "all": "minecraft:block/blue_stained_glass"
+  }
+}
